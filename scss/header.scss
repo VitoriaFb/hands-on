@@ -1,0 +1,43 @@
+ header {
+
+   /* Section */
+   section {
+     justify-content: space-between;
+     align-items: center;
+   }
+
+   /* End Section */
+
+   /* Nav */
+   nav {
+
+     /* Ul */
+     ul {
+       display: flex;
+       flex-direction: row;
+       align-items: center;
+
+       /* Li */
+       li {
+
+         /* a */
+         a {
+           margin: 0 15px;
+           color: $color-primaria;
+         }
+
+         /* End a */
+
+       }
+
+       /* End li */
+
+     }
+
+     /* End Ul */
+
+   }
+
+   /* End Nav */
+
+ }
